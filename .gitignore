@@ -23,3 +23,8 @@ stamp-h1*
 /version.h
 /version.h.tmp
 
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.a
+*.swp
